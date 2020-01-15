@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>com.yuetech.imyueji</string>
 				<key>bundle-version</key>
-				<string>1.2.0</string>
+				<string>1.0.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>悦己</string>
+				<string>imyueji</string>
 			</dict>
 		</dict>
 	</array>
